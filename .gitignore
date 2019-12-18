@@ -1,0 +1,9 @@
+.vscode
+__pycache__/
+engine/__pycache__
+venv
+.env
+
+*.manifest
+*.spec
+*.pyc

@@ -4,7 +4,7 @@ This script prints search query results and optionally ptints inner links by sea
 
 # How to start on Linux
 ```
-$ python search_engine.py --start_point 'google.com' --search_query 'Star Wars'
+$ python run.py --start_point 'google.com' --search_query 'Star Wars'
 ```
 
 Arguments:
