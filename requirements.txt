@@ -1,6 +1,6 @@
 beautifulsoup4==4.8.1
 bs4==0.0.1
 lxml==4.4.2
-requests==2.22.0
+requests==2.31.0
 validators==0.14.1
 pytest==5.4.1
